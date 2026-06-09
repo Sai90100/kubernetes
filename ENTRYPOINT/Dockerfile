@@ -1,3 +1,3 @@
 FROM almalinux:9
-CMD ["google.com"]
+CMD ["facebook.com"]
 ENTRYPOINT ["ping"]
